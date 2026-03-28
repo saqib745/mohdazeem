@@ -1,0 +1,308 @@
+MOHD AZEEM
+Curriculum Vitae
+Department of Mathematics
+Aligarh Muslim University, Aligarh
+T +91 9758844499
+B mohdazeem9211@gmail.com
+Personal Information
+Name : Mohd Azeem
+Father’s Name : Mohd Jameel
+Mother’s Name : Nishat Begum
+E-mail : mohdazeem9211@gmail.com
+Telephone : +91-9758844499
+Date of Birth & Place :May 05, 1997, Moradabad (U.P.), India
+Marital Status : Unmarried
+Passport Number : Available
+Educational Qualifications
+2022 Ph.D. Mathematics (Continue), Aligarh Muslim University, Aligarh.
+Topic of Ph.D A Study of DNA and Cyclic Codes Over the Finite Rings.
+2019 M.Sc. Mathematics (6.750 CGPA), Aligarh Muslim University, Aligarh.
+2017 B.Sc. Mathematics (63.55%), Aligarh Muslim University, Aligarh.
+2014 Intermediate (71.0%), Shanti Devi Inter College Bhojpur , Moradabad.
+2012 High School (82.83%), Inharul Haq Inter College Pipalsana , Moradabad.
+Academic Achievements
+2024 Upgraded JRF (Junior Research Fellowship) to SRF (Senior Research Fellowship).
+2021 Qualified CSIR-UGC Net with JRF June 2021 (AIR 162).
+2021 Qualified GATE 2021 (Score 429).
+2022 Qualified GATE 2022 (Score 422).
+Project
+M.Sc Project Zero divisor graphs of commutative rings, under the supervision of Prof. Nadeem-Ur-Rehman,
+Aligarh Muslim University, Aligarh, India.
+Field of Specialization/Interest
+Algebra and its related topics, Algebraic Coding Theory, DNA Coding, etc.
+Research Experience
+3 years research experience in the field of Algebraic Coding Theory.
+
+Research Publications (Research Papers)
+{ Published Papers in Refereed Journal: 04
+{ Accepted Papers in Refereed Journal: 01
+{ Communicated for Publication in Refereed Journal: 02
+{ Papers Presented at Conferences: 03
+{ Conferences /Workshops/Symposiums Attended: 53
+Foreign Visits
+Turkiye AESIM School 2025 & Second Joint IIIMT-Algebra Forum Conference 2025, June 16 -
+26, 2025, Karamanoglu Mehmetbey University, Karaman, Turkiye.
+Indonesia SEAMS School 2024, July 1 - 8, 2024 , Department of Mathematics, Faculty of Sciences and
+Mathematics, Universitas Diponegoro, Semarang, Indonesia& Department of Mathematics,
+Universitas Gadjah Mada, Yogyakarta, Indonesia, July 10 - 18, 2024. .
+Research Grants/Travel Funding
+1. Financial assistance(Travel Grant) awarded by the Office of the Registrar, Academic Section, Aligarh Muslim
+University (AMU) for attending the Joint IIIMT-Algebra Forum Conference 2025 (JIIIMT-AFC 2025), held at
+Karaman, Turkiye, from 24-26 June 2025.Sanctioned Amount: INR 1,40,500.
+2. Financial assistance (USD 400)received from Centre International de Mathématiques Pures et Appliquées
+(CIMPA) for participation in the SEAMS School 2024, held at the Department of Mathematics, Faculty of
+Sciences and Mathematics, Universitas Diponegoro, Semarang, Indonesia, July 1-8, 2024.
+Languages Known
+{ English (Intermediate), Hindi (Native), Urdu (Mother tongue).
+Computer Skills
+{ Environment Worked On : iOS, Windows.
+{ Packages Known : MS Office, LaTeX.
+{ Computer Algebra System (CAS) : Magma, SageMath.
+Publications
+1. On the construction of reversible DNA codes overF42m via T n-set codes,AIMS Mathematics, 10(12)(2025),
+29424-29453 (jointly with E. S. Oztas, A. S. Alali, S. Ali, M. S. M. Asri, K. B. Wong) Indexed: Web of Science
+(ISI/JCR Listed,SCIE, IF: 1.8,Q1), Scopus. ISSN: 2473-6988. Publisher: American Institute of Mathematical
+Sciences.
+2. A matrix-theoretic approach to the construction of reversible DNA codes overF42t, IEEE Access, 13(2025),
+209059-209071 (jointly with E. S. Oztas, A. S. Alali, S. Ali, M. S. M. Asri, K. B. Wong) Indexed: Web of
+Science (ISI/JCR Listed,SCIE, IF: 3.6,Q2), Scopus. ISSN: 2169-3536. Publisher: Institute of Electrical and
+Electronics Engineers.
+3. On double cyclic codes over finite chain rings for DNA computing,Entropy, 27(12)(2025), 1187 (jointly with
+S. Ali, A. S. Alali, A. A. Khan, K. B. Wong) Indexed: Web of Science (ISI/JCR Listed,SCIE, IF: 2,Q2),
+Scopus. ISSN: 1099-4300. Publisher: Multidisciplinary Digital Publishing Institute.
+4. Construction of quantum codes from constacyclic codes over the class of commutative rings,Contemporary
+Mathematics, 6(4)(2025), 5197-5216 (jointly with P. Sharma, A. S. Alali, S. Ali) Indexed: Web of Science
+(ISI/JCR Listed,ESCI, IF: 2.5,Q1), Scopus. ISSN: 2705-1064. Publisher: Universal Wiser.
+
+Lectures Presented/Delivered at National/International Platform
+1. Delivered a plenary talk in an international conference virtually with entitled “Construction of reversible
+DNA codes usingT n-set codes” organized by Taras Shevchenko National University of Kyiv, Ukraine & the
+Institute of Mathematics of the National Academy of Sciences of Ukraine, held on December 19, 2025.
+2. Presented a lecture as aSpeaker of Algebra Guest Lecture Series #2 on“Error Correcting Codes and
+its Application in DNA codes”, organized by the Department of Mathematics, Universitas Gadjah Mada
+(UGM), Indonesia, held on July 12, 2024.
+Papers presented at Conferences
+1. “Algebraic Construction of Reversible DNA Codes over Finite Fields” in theInternational Conference on
+Recent Trends in Mathematical Sciences and Applications (ICRTMSA-2026)organized by the Depart-
+ment of Mathematics, Ram Lal Anand College, University of Delhi, India, held on February 23, 2026.
+2. “Construction of reversible DNA codes overF42t via matrix-theoretic approach” in theInternational Confer-
+ence on Recent Trends in Mathematics and Computing (ICRTMC-2026)organized by the Department
+of Mathematics, Jamia Millia Islamia, New Delhi, India, held during February 16 - 18, 2026.
+3. “On Construction of Reversible DNA codes overF42m with T n-set codes” in theSecond Joint IIIMT-Algebra
+Forum Conference 2025organized by the Karamanoglu Mehmetbey University, Karaman, Turkiye, held
+during June 24 - 26, 2025.
+Conferences/Workshops/Symposiums Attended
+1. Two week faculty development programme on “AI for All: Interdisciplinary Solutions to Real World
+Problems for Sustainable Development” organized by the Interdisciplinary Centre for Artificial Intelligence,
+Aligarh Muslim University, Aligarh held during January 28 to February 10, 2026.
+2. Two-day workshop on “Linear Codes, Code-Based Functions and Magma Computation” in online mode,
+organized by the Department of Mathematics, Indian Institute of Technology, Patna (IIT Patna) held during
+January 17 - 18, 2026.
+3. Three-day international conference on “Second Joint IIIMT-Algebra Forum Conference 2025” organized
+by the Karamanoglu Mehmetbey University, Karaman, Turkiye, held during June 24 - 26, 2025.
+4. Nine daysAESIM School 2025 on “Algebraic Coding Theory, Cryptology and its Applications” organized
+by the Karamanoglu Mehmetbey University, Karaman, Turkiye, held during June 16 - 24, 2025.
+5. Two-day workshop on “Algebraic Coding Theory and Computation” in virtual mode, organized by the
+School of Sciences, Woxsen University, India, held during November 11 - 12, 2024.
+6. Nine days SEAMS School 2024 on “Derivations on Rings and Modules with Applications” organized by
+the Department of Mathematics, Faculty of Sciences and Mathematics, Universitas Diponegoro, Semarang,
+Indonesia, held during July 1 - 9, 2024.
+7. One week international workshop on “4th One-Week International Workshop on Technical Writing using
+LaTeX (Online)” organized by the School of Electronics Engineering (SENSE) and Technically Co-sponsor by
+VIT-AP, IEEE SB, and MTT SBC held at VIT-AP University, Amaravati, India during March 30 - April 05, 2024.
+8. Two-day international conference on “First Joint IIIMT-Algebra Forum 2023” organized by the Department
+of Mathematics and Natural Sciences, Mataram University, Indonesian, which took place virtually during
+
+December 16 - 17, 2023.
+9. Two-day workshop on “Algebraic Codes and MAGMA Computation” in online mode, organized by the
+Department of Mathematics, Indian Institute of Technology, Patna (IIT Patna) held during November 10 - 11,
+2023.
+10. Five days ICMAM Latin America Satellite Conference on “Analysis and PDE 2023” which took place virtually
+during October 10 - 14, 2023. This virtual conference is supported by the ISAAC (International Society for
+Analysis, its Applications and Computation).
+11. Three days ICMAM Latin America Satellite Conference on “Algebra, Combinatorics and Number Theory
+2023” which took place virtually during September 27 - 29, 2023.
+12. G20 themed three days international conference on “Variational Analysis and Optimization with Applica-
+tions (ICVAOA-2023)” held at the Department of Mathematics, Aligarh Muslim University, Aligarh during
+September 23 - 25, 2023.
+13. Three days international online workshop on “Academic writing - Ethical issues” organized by Global
+Institute of Statistical Solutions (GISS), Chennai, Tamil Nadu, held during September 16 - 18, 2023.
+14. Two days lecture series on “Exploring the Wonders of Algebra” conducted by The lndoMS of DIY and
+Central Java Region, The Indonesian Algebraist Society of Central Region, Universitas Diponegoro, Universitas
+Negeri Semarang, UIN Walisongo Semarang and Universitas PGRI Semarang held during August 03 - 04, 2023.
+15. An international seminar on the “World is Full of Networks! An International Webinar on the Applications
+of Graph Theory” in online mode, organized by Sri H. D. Devegowda Government First Grade College,
+Paduvalahippe, Karnataka held on January 27, 2023.
+16. International Conference of “Young Researchers in Algebra and Number Theory-2023” held during January
+12 - 13, 2023 in online mode at Faculty of Sciences Dhar El Mahraz, Sidi Mohamed Ben Abdellah University,
+Fez, Morocco.
+17. One day “International Workshop on Differential Equations & Applications” (IWDEA-2023) held in
+hybrid mode on January 03, 2023, organized by School of Mathematics and Statistics & School of Data
+Analytics, Mahatma Gandhi University, Kottayam, Kerala, India.
+18. One week international workshop on “Numerical Analysis of Ordinary and Fractional Partial Differential
+Equations” in online mode, organized by Department of Mathematics, Government Tilak PG College, Katni,
+affiliated to Rani Durgawati University Jabalpur, Madhya Pradesh held during December 27 - 31, 2022.
+19. A five days SERB-funded workshop titled “Nonlinear Phenomena in Mathematical Biology (WoNPMB-
+2022)” held online at Department of Applied Sciences, ABV- Indian Institute of Information Technology and
+Management (IIITM), Gwalior held during December 19 - 23, 2022.
+20. International seminar on “Indian Mathematicians and their Contributions (ISIMC-2022)” organized
+by Department of Mathematics, School of Physical Sciences, Central University of Karnataka, Kalaburagi,
+Karnataka held during December 21 - 22, 2022.
+21. Two days workshop on “Abstract Algebra” organized by the Division of Mathematics, School of Advanced
+Sciences, Vellore Institute of Technology, Chennai held during November 11 - 12, 2022.
+22. Seminar on “Algebraic Graph Theory” organized by Division of Mathematics, School of Advanced Sciences
+held on October 13, 2022 at Vellore Institute of Technology, Chennai.
+
+23. Three days workshop on “How to Improve Your Research Skills?” delivered by Prof. N. Sundararajan, Retd.
+Professor, Nanyang Technological University, Singapore, organized by Indian Institute of Technology, Indore
+(IIT Indore) held during September 08 - 10, 2022.
+24. “IEEE Authorship and Open Access Symposium: Tips and Best Practices to Get Published from
+IEEE Editors” organized by IEEE, Advancing Technology for Humanity in online mode, held on August 30, 2022.
+25. Three days international e-workshop on “The Foundations of College Mathematics” organized by Depart-
+ment of Mathematics in collaboration with IQAC of Sovarani Memorial College, Howrah, West Bengal &
+Saldiha College, Bankura, West Bengal held during September 21 - 23, 2020.
+26. Two days international webinar on “Algebra, Analysis & Topology” organized by Department of Mathematics,
+Bankura University & Bankura Mathematical Society (BMS), Bankura University, West Bengal held during
+August 13 - 14, 2020.
+27. Four days international webinar on “Special Functions and Discrete Mathematics” organized by Department
+of Mathematics, University of Kerala held during August 02 - 05, 2020.
+28. Five days online seminar on “Applications of Mathematics” organized by Department of Mathematics,
+Karunya Institute of Technology and Sciences, Coimbatore, Tamil Nadu held during July 20 - 24, 2020.
+29. International webinar on “Algebra and Topology” organized by Department of Mathematics, Prabhu Jagat-
+bandhu College, Andul, Howrah, West Bengal held during July 19 - 20, 2020.
+30. Two days webinar on “Applications of Advanced Mathematics and Statistics” organized by PG & Re-
+search Department of Mathematics & Department of Statistics, Marudhar Kesari Jain College for Women,
+Vaniyambadi, affiliated to Thiruvalluvar University, Tamil Nadu, held during June 29 - 30, 2020.
+31. Two days national webinar on “Fluid Mechanics” organized by Department of Science and Humanities, KGiSL
+Institute of Technology, affiliated to Anna University, Chennai held during June 29 - 30, 2020.
+32. National webinar on topic “Real Analysis and its Application” organized by Department of Mathematics,
+Arts, Commerce and Science College, Maregaon, affiliated to Sant Gadge Baba Amravati University, Amravati
+held on June 28, 2020.
+33. A research survey conducted on “Effectiveness of Online Teaching” organized by SOS Research PVT. LTD
+held on June 25, 2020.
+34. One day seminar based on “Topology for Young Researcher” in online mode, organized by Department
+of Mathematics, Muthayammal College of Arts & Science, Rasipuram, Salem, Tamil Nadu held on June 24, 2020.
+35. National webinar on “Fluid Dynamics” organized by Department of Mathematics and Statistics, School of
+Basic Sciences, Manipal University, Jaipur held on June 23, 2020.
+36. “Applications of Nonlinear Analysis to Real World Problems” presented by Dr. A. Anthony Elred,
+Department of Mathematics, St. Joseph’s College, Tiruchirappalli, organized by Department of Mathematics,
+St. Mother Theresa Engineering College, Thoothukudi, Tamil Nadu, affiliated to Anna University, Chennai
+held on June 23, 2020.
+37. International webinar on “Laplace Transform And Its Applications” organized by Department of H&S
+(Engineering Mathematics), Malla Reddy Institute of Technology and Science, Hyderabad, Telangana held on
+June 22, 2020.
+
+38. One day webinar on “Recent Developments in Mathematics and its Applications” organized by Department
+of Mathematics, GITAM Institute of Sciences in collaboration with Uttara Andhra Society for Mathematical
+Sciences (UASMS) and Prof. S. Minakshi Sundaram Memorial Society (SMSMS), Visakhapatnam held on
+June 20, 2020.
+39. Three days online short term training program on “LATEX for Everyone” organized by Department of
+Engineering Sciences, Ramrao Adik Institute of Technology, Nerul, Navi Mumbai held during June 18 - 20,
+2020.
+40. One day webinar on “Paradigm Shift to Education System: Impact of Basic and Applied Research by
+Dr. Abhishek Sharma” conducted by Readers’ Forum of Central Library, Manipal University, Jaipur held on
+June 19, 2020.
+41. One day seminar based on “Statistics for Data Analytics” in online mode, conducted by Department of
+Mathematics , KPR Institute of Engineering and Technology, Uthupalayam, Tamil Nadu, held on June 19, 2020.
+42. Two days webinar on “Geodesics on unit sphere : A Differential Geometry Approach” and “Solution
+of ODE using Lie Symmetry and Open Source Sagmath Algorithm” held during June 18 - 19, 2020,
+organized by Department of Mathematics, C. B. Patel Computer College & J. N. M. Patel Science College,
+Surat, affiliated to the Veer Narmad South Gujarat University, Surat, Gujarat.
+43. National level five days faculty development program on “Scilab” in Association With IIT-Bombay (Remote
+Learning Through Spoken Tutorial), held during June 15 - 19, 2020 organized by the Department of Science &
+Humanities, St. Peter’s Engineering College, Hyderabad, Telangana.
+44. One week online faculty development program on “Taxonomy of Softwares related to Mathematical
+Sciences” organized by Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad, Telangana
+held during June 09 - 14, 2020.
+45. Webinar on “Science: Pathways to Future Technologies” organized by School of Technology, Pandit
+Deendayal Petroleum University, Gandhinagar, Gujarat held on June 13, 2020.
+46. Two days seminar based on “Applications of Mathematics in Mechanical Engineering” in online mode
+conducted by Department of Mathematics, KPR Institute of Engineering and Technology, Uthupalayam, Tamil
+Nadu held during June 11 - 12, 2020.
+47. Four days online faculty development program on “Recent Research Directions in Mathematics” organized
+by Department of Mathematics, Kongu Engineering College, Perundurai, Erode, Tamil Nadu, affiliated to Anna
+University, Chennai held during June 09 - 12, 2020.
+48. Webinar on “Patents & Intellectual Property Rights” organized by Department of Civil Engineering, RMD
+Sinhgad School of Engineering, Warje, Pune, affiliated to University of Pune, Maharashtra held on June 10, 2020.
+49. Webinar on “Applications of Differential Equations” organized by Kongunadu Arts and Science College,
+affiliated to Bharathiar University, Tamil Nadu through Google meet platform held on June 04, 2020.
+50. One day national e-workshop on topic “Recent Trends Algebra-Career Perspectives” organized by De-
+partment of Mathematics, Arts, Commerce and Science college, Maregaon, affiliated to Sant Gadge Baba
+Amravati University, Amravati held on June 04, 2020.
+51. A webinar based on “Writing Research Papers and Submissions by Prof. Lance Fung” Jointly organized
+by IEEE Malaysia Section Consultants Network Affinity Group and IEEE Young Professionals Malaysia held on
+
+June 03, 2020.
+52. One day international webinar on “MATLAB Applications in Sciences and Engineering” organized by
+Baba Farid College, affiliated to Punjabi University, Patiala held on May 29, 2020.
+53. International seminar on “Fluid Dynamics and Its Applications” in online mode, organized by Department
+of Mathematics, Government First Grade College, Vijayanagara, Bengaluru held during May 28 - 29 2020, in
+association with Department of Mathematics, Bangalore University, Bengaluru.
+Quizzes
+1. Quiz competition (Senior level) in the connection with celebration of “National Mathematics Week-2022”
+held at the Department of Mathematics, Aligarh Muslim University, Aligarh during December 15 - 22, 2022
+and won theFirst Prizeon December 22, 2022.
+2. National level e-Quiz Competition inMathematics organized by The Ramanujan Math Club of Chaitanya
+Bharathi Institute of Technology (CBIT), Department of Mathematics, Gandipet, Hyderabad held on June 22,
+2020 andqualified the quiz with a score of90% marks.
+3. Mathematical Quiz on “Algebra” in online mode, organized by Department of Mathematics, Government
+College of Engineering and Technology, Jammu held on June 23, 2020 andqualified the quiz with a score of
+84% marks.
+4. Online Quiz on “Multiple Integrals” organized by Assistant Professor, Dr. V. Gowri Sankara Rao, St. Joseph’s
+College for Women, Visakhapatnam, Andhra Pradesh held on July 07, 2020 andqualified the quiz with a
+score of80% marks.
+5. An e-Quiz on “Engineering Mathematics” organized by Department of Applied Science, Galgotias College of
+Engineering and Technology, Greater Noida held on June 11, 2020 andqualified with a score of80% marks.
+6. E-Quiz entitled “Online Mock Quiz for CSIR NET Paper I” organized by Department of Mathematics,
+Nadar Saraswathi College of Arts & Science, Theni, Tamil Nadu held on June 22, 2020 andqualified the quiz
+with a passing score of80% marks.
+7. National Online Boffin Quiz for “Mathematics and Logical Reasoning” organized by Mathematics Society,
+Bhiwandi, Maharashtra held on June 27, 2020 and secured65% marks.
+8. E-Quiz on “General Aptitude Test-2020” organized by the Soundarya Institute of Management & Science,
+Soundarya Nagar, Bangalore, affiliated to Bangalore University held on July 20, 2020, participated in the quiz
+and qualified with a passing score.
+9. An online Quiz competition on “Basics of Higher Mathematics” organized by Department of Mathematics,
+Dr. J. P. Mishra Govt. PG Science College, Mungeli, Chhattisgarh on June 27, 2020 during June 23 - 27,
+2020, participated in the quiz andqualified with a passing score.
+10. National Level e-Quiz on “Fuzzy Clustering Techniques and its Applications” jointly organized by De-
+partment of Mathematics, Thiagarajar College of Engineering, Madurai, Tamil Nadu & St. Mother Theresa
+Engineering College,Thoothukudi, Tamil Nadu held during July 02, 2020 & July 07, 2020 andqualified with a
+passing score.
+11. A Quiz competition based on the title “Engineering Mathematics” organized by the Bheema Institute of
+Technology & Science, Adoni, Andhra Pradesh, affiliated to JNTUA, Anantapuramu, Andhra Pradesh held on
+
+June 20, 2020, participated in the online quiz andqualified with a passing score.
+12. Three days Quiz competition based on “General Mathematics” in online mode, organized by Department of
+Mathematics, Bharathidasan Engineering College, Natrampalli, Chennai during June 26 - 28, 2020, participated
+in the quiz andqualified with a passing score.
+13. National level Quiz based on “Vedic Mathematics” organized by Department of Mathematics, School of
+Applied and Life Sciences, Uttaranchal University, Dehradun during June 20 - 21, 2020, participated in the
+online quiz andqualified with a passing score.
+References
+Professor Shakir Ali
+Department of Mathematics
+Aligarh Muslim University
+Aligarh-20202, India
+B shakir.ali.mm@amu.ac.in
+T +91 9027163134
+Professor Elif Segah Oztas
+Department of Mathematics, Faculty of Edu-
+cation, Karamanoglu Mehmetbey University
+Karaman - Turkiye
+elifsegahoztas@gmail.com
+B +90 5364875610
+T
+Professor Cihat Abdioglu
+Department of Mathematics, Faculty of Edu-
+cation, Karamanoglu Mehmetbey University
+Karaman - Turkiye
+cihat.abdioglu@gmail.com
+B +90 5433131561
+T
+Professor Indah Emilia Wijayanti
+Department of Mathematics
+Universitas Gadjah Mada
+Yogyakarta-55598, Indonesia
+B ind_wijayanti@ugm.ac.id
+T +62 89671311671
+(MOHD AZEEM)
